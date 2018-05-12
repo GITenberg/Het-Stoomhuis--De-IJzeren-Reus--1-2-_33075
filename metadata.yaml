@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: Translation of La maison à vapeur (v. 1).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33075#Het-Stoomhuis--De-IJzeren-Reus--1-2-
 gutenberg_issued: '2010-07-04'
 gutenberg_type: Text
 identifiers:
