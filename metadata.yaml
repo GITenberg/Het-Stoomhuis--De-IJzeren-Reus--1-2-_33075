@@ -1,0 +1,37 @@
+_repo: Het-Stoomhuis--De-IJzeren-Reus--1-2-_33075
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33075-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: Translation of La maison à vapeur (v. 1).
+gutenberg_issued: '2010-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33075'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction'
+- !lcsh 'Mutiny -- India -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+title: 'Het Stoomhuis: De IJzeren Reus (1/2)'
+url: http://www.gutenberg.org/ebooks/33075
